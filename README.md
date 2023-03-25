@@ -1,12 +1,12 @@
 # DataSet
 The following folder contains two sub-folders
-  ->Training Set
-  ->Testing Set
+  1. Training Set
+  2. Testing Set
 
-The Testing Set contains two sub folder 
-    -> UnderPass(Without Water) Images (60 Files)
-    -> UnderPass(With Water) Images(60 Files)
+1. The Testing Set contains two sub folder 
+    (a) UnderPass(Without Water) Images (60 Files)
+    (b) UnderPass(With Water) Images(60 Files)
     
-The Training Set contains two sub folder 
-    -> UnderPass(Without Water) Images (312 Files)
-    -> UnderPass(With Water) Images(312 Files)
+2. The Training Set contains two sub folder 
+    (a) UnderPass(Without Water) Images (312 Files)
+    (b) UnderPass(With Water) Images(312 Files)
